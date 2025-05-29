@@ -1,0 +1,10 @@
+*.bak
+*.tmp
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*.backup
+__pycache__/
+*.dcm
+fp-info-cache
+sym-lib-table~
+fp-lib-table~
